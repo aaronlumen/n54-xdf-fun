@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 # This tool was created by Aaron Surina for bmw performance tuning and custom engine controller modifications.
+# Author: Aaron Surina
+# Creature Comforts LLC. 
+# SEE FIRST COMMIT DATE #
 """
 XDF High-Performance Updater
 
